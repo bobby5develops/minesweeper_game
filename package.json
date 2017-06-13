@@ -1,0 +1,14 @@
+{
+  "name": "minesweeper_game",
+  "version": "0.0.1",
+  "description": "native javascript and html5 game",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Yarborough",
+  "license": "ISC"
+}
